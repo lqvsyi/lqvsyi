@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm 16
+I'm 16, chinese.
 
 - 🌱 I’m currently learning AI
